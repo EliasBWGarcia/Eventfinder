@@ -1,0 +1,1 @@
+// Firestore favorites service placeholder.

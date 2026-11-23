@@ -1,0 +1,1 @@
+// Event map component placeholder.

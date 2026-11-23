@@ -1,0 +1,1 @@
+// Copenhagen Libraries integration placeholder.

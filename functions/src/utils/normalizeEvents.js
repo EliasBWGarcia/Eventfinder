@@ -1,0 +1,1 @@
+// Event normalization utility placeholder.
